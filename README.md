@@ -1,2 +1,2 @@
 # References
-Machine-Learning-Spectroscopy-Using-a-Two-stage-Generalized-Constituent-Contribution-Protocol
+Machine Learning Spectroscopy Using a 2-Stage, Generalized Constituent Contribution Protocol
